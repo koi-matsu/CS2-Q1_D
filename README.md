@@ -23,7 +23,7 @@
 - Menu choice ("integer")
 
 # PROCESSES
-6The program will:
+The program will:
 1. Allow the user to add grocery items.
 2. Store item names, prices, and quantities in separate Python lists.
 3. Calculate the total price of each item by multiplying its price by its quantity.
