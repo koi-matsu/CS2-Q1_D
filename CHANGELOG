@@ -2,7 +2,7 @@
 
 This file lists all the updates made to our Smart Grocery List and Budget Calculator project.
 
-## Version v1.1.0 – August 28, 2026
+## Version v1.0.0 – August 28, 2026
 - Added the Sort Items by Price feature.
 - Items can now be arranged from highest to lowest price.
 - Improved the menu and console formatting.
@@ -11,7 +11,7 @@ This file lists all the updates made to our Smart Grocery List and Budget Calcul
 
 ---
 
-## Version v1.0.1 – August 28, 2026
+## Version v1.0.0 – August 28, 2026
 - Added calculation of the total price for each grocery item.
 - Added the Compute Total Cost feature.
 - Improved the display of grocery information.
